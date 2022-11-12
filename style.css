@@ -224,7 +224,7 @@ margin-top: 1rem;
 
    
 
-    @media screen and (max-width: 344px) {
+    @media screen and (max-width: 500px) {
         .h
         {
             font-size: 140%;
@@ -254,6 +254,7 @@ margin-top: 1rem;
         {
             margin-right: 5px;
             padding: 0;
+            
         }
         .c4
         {
@@ -268,6 +269,24 @@ margin-top: 1rem;
         .music_container
         {
             width: 95%;
+        }
+        .r1
+        {
+            margin-left: 3.5%;
+        }
+        .img img
+        {
+            border-radius: 50%;
+            width:60%;
+            height: 60%;
+            /* width: inherit; */
+            
+        }
+        .volume_div{
+            width: 85%;
+        }
+        #title{
+            padding-top: 16%;
         }
     
       }
